@@ -1,2 +1,2 @@
 # cs528
-Course Websitw
+Course Website for HPC Jan-May-2025
