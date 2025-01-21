@@ -11,8 +11,8 @@
 | 5       |  09-01-2025            | Hazards in Pipelining | [09-1-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESehAE3koT9MoL9CB4Su8wEBcRI9axmC6QAd_hU8kBsGyA?e=QRSVKT) |
 | 6       |  13-01-2025            | Control Hazards | [13-1-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EffDZrzQIw5DoYUAj9ppceQBeNFfTXawUS1GRps4FOB8ow?e=emEdCi) |
 | 7       |  15-01-2025            | Instruction Level Parallelism-1 | [15-1-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EbEe_FSbEdBPmHRL_vNKNtsBtqoV7D6KslZD2LhXnFpdXQ?e=s3ygb5) |
-| 8       |  20-01-2025            | Tomasulo Algorithm | [20-1-2025]() |
-| 9       |  21-01-2025            | Tomasulo Algorithm-Example | [21-1-2025]() |
+| 8       |  20-01-2025            | Tomasulo Algorithm | [20-1-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ERHv4i2VPkhLhvsNzacJ2-gBt_r-chOyLdSIlGPdy5Uhfw?e=SxnEiB) |
+| 9       |  21-01-2025            | Tomasulo Algorithm-Example | [21-1-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETCkTU_LNlpJpSSqlsCslSIB9mZ-wrU0odN3K3vNUIJy-g?e=K8l7iD) |
 
 
 
