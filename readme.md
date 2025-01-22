@@ -14,6 +14,7 @@
 | 8       |  20-01-2025            | Tomasulo Algorithm | [20-1-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ERHv4i2VPkhLhvsNzacJ2-gBt_r-chOyLdSIlGPdy5Uhfw?e=SxnEiB) |
 | 9       |  21-01-2025            | Tomasulo Algorithm-Example | [21-1-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETCkTU_LNlpJpSSqlsCslSIB9mZ-wrU0odN3K3vNUIJy-g?e=K8l7iD) |
 | 10       |  22-01-2025            | Dynamic Loop Scheduling | [22-1-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EY8Fhterp9dFnLuLcNHxtmoBkyN5ztrph0Ys5QXfPCf1vA?e=jfzx4L) |
+
 ## Quiz-1 : 27.01.2025
 
 
