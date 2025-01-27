@@ -15,7 +15,13 @@
 | 9       |  21-01-2025            | Tomasulo Algorithm-Example | [21-1-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETCkTU_LNlpJpSSqlsCslSIB9mZ-wrU0odN3K3vNUIJy-g?e=K8l7iD) |
 | 10       |  22-01-2025            | Dynamic Loop Scheduling | [22-1-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EY8Fhterp9dFnLuLcNHxtmoBkyN5ztrph0Ys5QXfPCf1vA?e=jfzx4L) |
 
-## Quiz-1 : 27.01.2025
+## Quiz-1 : 27.01.2025 [Seating Arrangement](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EXUhzU1zei1OkApJdBWeUukBYkVy3v25POv4hHJ1ccMHEQ?e=ju3PeQ)
+## Students whose names are not in the seating arrangement list will have to sit in room number 5202
+## Timing 5:00 pm to 5:55 pm
+## ID card is compulsory (PhD student who has joined can show any valid govt. ID)
+## No mobile phone, calculator or any electronic devices are allowed
+## Zero Tolerance on Malpractices
+
 
 
 
