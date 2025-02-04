@@ -15,3 +15,7 @@
 | 9       |  21-01-2025            | Tomasulo Algorithm-Example | [21-1-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETCkTU_LNlpJpSSqlsCslSIBPXEFwpUaJnY9qXln2JkTWQ?e=atjQnQ) |
 | 10       |  22-01-2025            | Dynamic Loop Scheduling | [22-1-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EY8Fhterp9dFnLuLcNHxtmoBe89_XGCjbb7TyhYEhDzadw?e=dsPg2f) |
 | 11       |  27-01-2025            | Quiz-1 | [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EUhonsqGPLJHhKFrMI9Ll6IBRZ3rLvmBKqtalw--AtLEKw?e=Mz9epy) |
+| 12       |  28-01-2025            | Dynamic Branch Prediction | [29-01-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EdfywRxmunZCv_eGtnDFKxUBX0VVgguqM-RFxW9cePU9tQ?e=APKk2d) |
+| 13       |  29-01-2025            | Dynamic Branch Prediction-Cont | Included in above |
+| 14       |  03-02-2025            | H/W Based Speculation | [03-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EeDZMYTlfyVJuqSQJWE_rJ0BprzybEohiS9NBG_0lYD37w?e=niZ3Oe) |
+
