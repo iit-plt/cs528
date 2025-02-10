@@ -18,4 +18,6 @@
 | 12       |  28-01-2025            | Dynamic Branch Prediction | [29-01-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EdfywRxmunZCv_eGtnDFKxUBX0VVgguqM-RFxW9cePU9tQ?e=APKk2d) |
 | 13       |  29-01-2025            | Dynamic Branch Prediction-Cont | Included in above |
 | 14       |  03-02-2025            | H/W Based Speculation | [03-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EeDZMYTlfyVJuqSQJWE_rJ0BprzybEohiS9NBG_0lYD37w?e=niZ3Oe) |
+| 15       |  04-02-2025            | VLIW  | [04-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWKbTxh0Ex1Dghr3rVSPfs0Bm3c90QE7AgFpyf1UQjagEg?e=gNguTA) |
+| 16       |  05-02-2025            | RoB-Example and VLIW Cont  | [05-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Ec-1fsGfLbRCqZ81egsPlEsBvuCj4ay89vor3qCf6PgZbA?e=cwTp2X) |
 
