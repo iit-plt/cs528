@@ -1,4 +1,3 @@
-## CS528
 ### Course Website for CS528 HPC Jan-May-2025
 
 
