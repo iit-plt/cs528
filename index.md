@@ -20,6 +20,12 @@
 | 14       |  03-02-2025            | H/W Based Speculation | [03-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EeDZMYTlfyVJuqSQJWE_rJ0BprzybEohiS9NBG_0lYD37w?e=niZ3Oe) |
 | 15       |  04-02-2025            | VLIW  | [04-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWKbTxh0Ex1Dghr3rVSPfs0Bm3c90QE7AgFpyf1UQjagEg?e=gNguTA) |
 | 16       |  05-02-2025            | RoB-Example and VLIW Cont  | [05-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Ec-1fsGfLbRCqZ81egsPlEsBvuCj4ay89vor3qCf6PgZbA?e=cwTp2X) |
-| 17       |  10-02-2025            | SIMD  | [10-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EcHC0C0DuqxBuSlObl6z4pgBczdnDZZFMwa4Tid5kGkT8A?e=sgyqMi) |
+| 17       |  10-02-2025            | SIMD-I  | [10-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EcHC0C0DuqxBuSlObl6z4pgBczdnDZZFMwa4Tid5kGkT8A?e=sgyqMi) |
+| 18       |  10-02-2025            | SIMD-II  | [11-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EdmFjyk1aYBBo2vKtC56yzUBQC3UfheZXvgIpBpu_eYQtA?e=bT4b3F) |
+| 19       |  11-02-2025            |  SIMD-Data Reordering | [12-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EXE0PhVTC2ZDlbxvozFQ4LYBzf6oP7KAvY_iRO_zC9TICA?e=2UPGBb) |
+| 20       |  12-02-2025            |  Introduction-Thread Level Parallelism-I | [12-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVkJHoTwWUpBoe5DE5TVcKgBfq0t2M3oUm803gpbcW6sBg?e=ieahdb) |
+| 21       |  12-02-2025            |  TLP-II | [13-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESM2vw7sD_NCs9jv86UYkYMBY4CjEyuxQK5mDhak5ARalQ?e=SvlToy) |
+
+
 
 
