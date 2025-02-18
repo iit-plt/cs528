@@ -1,4 +1,5 @@
 ### Course Website for CS528 HPC Jan-May-2025
+### Mid-Sem: 24/02/2025
 
 
 | Lec. No. | Date of Lecture        | Topics  | Slides   |
