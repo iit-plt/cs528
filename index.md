@@ -24,6 +24,7 @@
 | 19       |  11-02-2025            |  SIMD-Data Reordering | [11-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EXE0PhVTC2ZDlbxvozFQ4LYBzf6oP7KAvY_iRO_zC9TICA?e=2UPGBb) |
 | 20       |  12-02-2025            |  Introduction-Thread Level Parallelism-I | [A-12-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVkJHoTwWUpBoe5DE5TVcKgBfq0t2M3oUm803gpbcW6sBg?e=ieahdb) |
 | 21       |  12-02-2025            |  TLP-II | [B-12-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESM2vw7sD_NCs9jv86UYkYMBY4CjEyuxQK5mDhak5ARalQ?e=SvlToy) |
+| 22       |  17-02-2025            |  TLP-III | [17-02-2025](https://iitgoffice-my.sharepoint.com/:p:/g/personal/phrangboklang_iitg_ac_in/EV28p6p1PPdEgoi5SwsmKHUBUjhmwMZQORI-i9s9zEBkig?e=oYMbSj) |
 
 
 
