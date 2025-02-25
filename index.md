@@ -1,5 +1,6 @@
 ### Course Website for CS528 HPC Jan-May-2025
 
+
 | Lec. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------|
 | 1       |  02-01-2025            | Introduction: Syllabus Discussion| [02-1-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EUmmHQJHOu1MijXOagEhgf8BnagytNanKC3XTGz3kQaW2A) | 
