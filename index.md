@@ -26,6 +26,16 @@
 | 21       |  12-02-2025            |  TLP-II | [B-12-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESM2vw7sD_NCs9jv86UYkYMBY4CjEyuxQK5mDhak5ARalQ?e=SvlToy) |
 | 22       |  17-02-2025            |  TLP-III | [17-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ET4Eu5Eh9Y5Iq5LvCrDrVLgBlx40yHuJJ7WB4DeZXj5lqg?e=81jtwI) |
 | 23       |  24-02-2025            |  Mid-Semester | [24-02-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfBxz-79ZXZLv2U0XPPpL4cBl7NY8u-xK9o62z7KaKUK-w?e=0Ycq2U) |
+| 24       |  03-03-2025            |  Mid-Semester-Solution Discussion | [03-03-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfBxz-79ZXZLv2U0XPPpL4cBl7NY8u-xK9o62z7KaKUK-w?e=0Ycq2U) |
+| 25       |  04-03-2025            |  Memory-Ordering-I | [04-03-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVw_BaSUjCBJnuBkNbV0-wcBRPyxviFAyRj4W_JE0bjqvA?e=1WaJup) |
+| 26       |  05-03-2025            |  Memory-Ordering-II | [05-03-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVw_BaSUjCBJnuBkNbV0-wcBRPyxviFAyRj4W_JE0bjqvA?e=1WaJup) |
+
+| 27       |  10-03-2025            |  GPU-I | [Chapter-6-Smruti Sarangi-IITD](https://www.cse.iitd.ac.in/~srsarangi/advbook/chapters/gpus.pdf), [Webpage-6-Smruti Sarangi-IITD](https://www.cse.iitd.ac.in/~srsarangi/advbook/index.html) |
+| 28       |  11-03-2025            |  GPU-II | -do-  |
+| 29       |  12-03-2025            |  GPU-III | -do- |
+
+
+
 
 
 
