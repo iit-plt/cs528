@@ -35,6 +35,10 @@
 | 28       |  11-03-2025            |  GPU-II | -included in above-  |
 | 29       |  12-03-2025            |  GPU-III | -included in above- |
 | 30       |  17-03-2025            |  GPU-IV | -included in above- |
+| 31       |  18-03-2025            |  DRAM-I| [18-03-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EbyJF2UBE5RKh3PlVrbUY-QBUDOfZZct8teJxTresRSKrQ?e=rT86rb) |
+| 32       |  20-03-2025            |  DRAM-II| [20-03-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETsFAksFIAxJpH-HXsX-kFgBAOQlsmoDAD7yir321B9AUw?e=MYAWRS) |
+
+
 
 
 
