@@ -37,7 +37,9 @@
 | 30       |  17-03-2025            |  GPU-IV | -included in above- |
 | 31       |  18-03-2025            |  DRAM-I| [18-03-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EbyJF2UBE5RKh3PlVrbUY-QBUDOfZZct8teJxTresRSKrQ?e=rT86rb) |
 | 32       |  20-03-2025            |  DRAM-II| [20-03-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETsFAksFIAxJpH-HXsX-kFgBAOQlsmoDAD7yir321B9AUw?e=MYAWRS) |
-
+| 33       |  25-03-2025            |  Memory Interleaving and Introduction to Emerging memory technologies| [25-03-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Ebu8AfhkfT9KmlMpgeYv9ScBpT_K6y-hC7UtiBLLCyONaQ?e=7X9QR9) |
+| 34       |  26-03-2025            |  Data Centric Computing | [26-03-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYlnMu0zzbdDu7j8T6N_HUIBRd-8YrMe6Ils-y6XTd4ryA?e=juI6ZM) |
+| 35       |  27-03-2025            | Computation in DRAM | [27-03-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWefyK6vrLpKnEifW4y1yMEBECkdJ1szNxwgqk7f7POyjw?e=lLajYN) |
 
 
 
