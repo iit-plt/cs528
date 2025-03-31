@@ -1,6 +1,6 @@
 ### Course Website for CS528 HPC Jan-May-2025
 
-## Quiz-2 April 3rd 2025
+## Quiz-2 April 3rd 2025- Syllabus: Lectures 25-35
 
 
 | Lec. No. | Date of Lecture        | Topics  | Slides   |
