@@ -39,7 +39,7 @@
 | 32       |  20-03-2025            |  DRAM-II| [20-03-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETsFAksFIAxJpH-HXsX-kFgBAOQlsmoDAD7yir321B9AUw?e=MYAWRS) |
 | 33       |  25-03-2025            |  Memory Interleaving and Introduction to Emerging memory technologies| [25-03-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Ebu8AfhkfT9KmlMpgeYv9ScBpT_K6y-hC7UtiBLLCyONaQ?e=7X9QR9) |
 | 34       |  26-03-2025            |  Data Centric Computing | [PDF](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYlnMu0zzbdDu7j8T6N_HUIBRd-8YrMe6Ils-y6XTd4ryA?e=juI6ZM),[PPT](https://iitgoffice-my.sharepoint.com/:p:/g/personal/phrangboklang_iitg_ac_in/EfoyJCWtt9hHvUWYmjdJC2kBElR8P6zNmxoRCJHR-F30yg?e=c4MaWC), [Video](http://www.youtube.com/watch?v=mEt-hhLHBG4)|
-| 35       |  27-03-2025            | Computation in DRAM | [PDF](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWefyK6vrLpKnEifW4y1yMEBECkdJ1szNxwgqk7f7POyjw?e=lLajYN), [PPT](https://iitgoffice-my.sharepoint.com/:p:/g/personal/phrangboklang_iitg_ac_in/EfuJpdk7LR9Bg2IqA6NNoW8BbavmXxiE0gyBgSMW23hiGw?e=LmbMbm), [Video]([http://www.youtube.com/watch?v=mEt-hhLHBG4](https://www.youtube.com/watch?v=M8xBlSGpzVc)|
+| 35       |  27-03-2025            | Computation in DRAM | [PDF](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWefyK6vrLpKnEifW4y1yMEBECkdJ1szNxwgqk7f7POyjw?e=lLajYN), [PPT](https://iitgoffice-my.sharepoint.com/:p:/g/personal/phrangboklang_iitg_ac_in/EfuJpdk7LR9Bg2IqA6NNoW8BbavmXxiE0gyBgSMW23hiGw?e=LmbMbm), [Video](https://www.youtube.com/watch?v=M8xBlSGpzVc)|
 
 
 
