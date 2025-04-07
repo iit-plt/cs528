@@ -1,9 +1,5 @@
 ### Course Website for CS528 HPC Jan-May-2025
 
-## Quiz-2 [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Ec5AAPYYxfJCkQ1JbM0GSa0B2AFS49xJJN1tpAsELimHIA?e=HqDqD3)
-## Timing: TBA
-
-
 | Lec. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------|
 | 1       |  02-01-2025            | Introduction: Syllabus Discussion| [02-1-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EUmmHQJHOu1MijXOagEhgf8BnagytNanKC3XTGz3kQaW2A) | 
@@ -44,7 +40,7 @@
 
 | 36       |  02-04-2025            | Row-Hammer | [PPT](https://iitgoffice-my.sharepoint.com/:p:/g/personal/phrangboklang_iitg_ac_in/EaTb7jKHI8xJrGNi1e7RjEQBkEmlHkfK3JMWJy_fY41U-g?e=geEG8A), [Video](https://www.youtube.com/watch?v=sgd7PHQQ1AI)|
 | 37       |  03-04-2025            | Block Hammer | [PDF](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfHxuIwBAnxJl-pAZ5-6cKgBUBcTvpToQTSMuKLKuNRg4Q?e=nkNQE2), [Video](https://youtu.be/EdD1W2tDDxo?t=4340) [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9407238)|
-
+ |38       |  07-04-2025            | Quiz-II | [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Ec5AAPYYxfJCkQ1JbM0GSa0B2AFS49xJJN1tpAsELimHIA?e=HqDqD3)|
 
 
 
