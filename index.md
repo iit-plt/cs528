@@ -1,6 +1,6 @@
 ### Course Website for CS528 HPC Jan-May-2025
 
-## Quiz-2 April 3rd 2025 (Thursday)- Syllabus: Lectures 25-35
+## Quiz-2 [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Ec5AAPYYxfJCkQ1JbM0GSa0B2AFS49xJJN1tpAsELimHIA?e=HqDqD3)
 ## Timing: TBA
 
 
