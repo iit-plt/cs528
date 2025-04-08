@@ -1,4 +1,4 @@
-### Course Website for CS528 HPC Jan-May-2025
+### Course Website for CS528 HPC Jan-May-2025.
 
 | Lec. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------|
