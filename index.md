@@ -42,6 +42,9 @@
  |38       |  07-04-2025            | Quiz-II | [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Ec5AAPYYxfJCkQ1JbM0GSa0B2AFS49xJJN1tpAsELimHIA?e=HqDqD3)|
 
 
+Paper To Read for End Sem from Safari Group:
+RowPress: [Link](https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf), [Video](http://www.youtube.com/watch?v=5UqxyvEuqpg)
+
 
 
 
