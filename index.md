@@ -42,6 +42,7 @@
 | 37       |  03-04-2025            | Block Hammer | [PDF](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfHxuIwBAnxJl-pAZ5-6cKgBUBcTvpToQTSMuKLKuNRg4Q?e=nkNQE2), [Video](https://youtu.be/EdD1W2tDDxo?t=4340) [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9407238)|
  |38       |  07-04-2025            | Quiz-II | [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Ec5AAPYYxfJCkQ1JbM0GSa0B2AFS49xJJN1tpAsELimHIA?e=HqDqD3)|
  |39       |  08-04-2025            | Genome Analysis | [PPT](https://safari.ethz.ch/architecture_seminar/fall2023/lib/exe/fetch.php?media=firtina-seminarincomparch-fall2023-lecture5-genome-analysis-afterlecture.pptx), [Video](https://www.youtube.com/watch?v=-KtrGetkVhw)|
+ |40       |  16-04-2025            | Memristor | [16-04-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYzAIsj7OIJKkWNcfQ9ZtBQBBGirNysLM-TEi-7cLxaIdA?e=E0k9Gp)|
 
 
 Paper To Read for End Sem from Safari Group:
