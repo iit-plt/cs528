@@ -1,4 +1,5 @@
 ### Course Website for CS528 HPC Jan-May-2025
+## Syllabus for End-Sem: Lectures 8-16, 25-40
 
 | Lec. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------|
