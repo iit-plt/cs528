@@ -1,5 +1,5 @@
 ### Course Website for CS528 HPC Jan-May-2025
-## Syllabus for End-Sem: Lectures 8-16, 25-40, and the assignments, i.e. RowPress and NvWA.
+## Syllabus for End-Sem: Lectures 8-16, 25-40, and the assignments, i.e. RowPress and NvWA
 
 | Lec. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------|
