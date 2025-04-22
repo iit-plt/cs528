@@ -48,7 +48,7 @@
 Paper To Read for End Sem from Safari Group:
 RowPress: [PPT](https://safari.ethz.ch/architecture_seminar/fall2023/lib/exe/fetch.php?media=computer_architecture_pavel_shilkin_v3.pptx), [PDF](https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf), [Video](http://www.youtube.com/watch?v=5UqxyvEuqpg)
 
-NvWA: [PPT](https://safari.ethz.ch/architecture_seminar/fall2024/lib/exe/fetch.php?media=presentation_rawhash.pptx), [Paper](https://safari.ethz.ch/architecture_seminar/fall2024/lib/exe/fetch.php?tok=b0ae35&media=https%3A%2F%2Fwww.jonasjuffinger.com%2Fpapers%2Fcsirowhammer.pdf), [Video](http://www.youtube.com/watch?v=phzGmy5EFnI)
+NvWA: [PPT](https://safari.ethz.ch/architecture_seminar/fall2024/lib/exe/fetch.php?media=presentation_rawhash.pptx), [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10070978), [Video](http://www.youtube.com/watch?v=phzGmy5EFnI)
 
 
 
