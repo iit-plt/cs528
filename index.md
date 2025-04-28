@@ -1,5 +1,5 @@
 ### Course Website for CS528 HPC Jan-May-2025
-## Syllabus for End-Sem: Lectures 8-16, 25-40, and the assignments, i.e. RowPress and NvWA.
+## End-Sem [Part-A](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETTsJzCGmohCpX9aV2mur_8Bj1CPksOJ43jAigVWo4Z7Rw?e=k4ZfbA), [Part-B](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYo9S0fDqDlBjYqV6nvBR1kBVHq_DOoyWg4Pj0uHPhtpvw?e=cvRDNk)
 
 | Lec. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------|
@@ -44,7 +44,7 @@
  |39       |  08-04-2025            | Genome Analysis | [PPT](https://safari.ethz.ch/architecture_seminar/fall2023/lib/exe/fetch.php?media=firtina-seminarincomparch-fall2023-lecture5-genome-analysis-afterlecture.pptx)(Till Slide Number 133), [Video](https://www.youtube.com/watch?v=-KtrGetkVhw)|
  |40       |  16-04-2025            | Memristor | [16-04-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYzAIsj7OIJKkWNcfQ9ZtBQBBGirNysLM-TEi-7cLxaIdA?e=E0k9Gp)|
 
-## End-Sem [Part-A](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETTsJzCGmohCpX9aV2mur_8Bj1CPksOJ43jAigVWo4Z7Rw?e=k4ZfbA), [Part-B](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYo9S0fDqDlBjYqV6nvBR1kBVHq_DOoyWg4Pj0uHPhtpvw?e=cvRDNk)
+
 
 Paper To Read for End Sem from Safari Group:
 
