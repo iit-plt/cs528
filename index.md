@@ -1,7 +1,7 @@
 ### Course Website for CS528 HPC Jan-May-2025
 
 ## End-Sem Solution  [Part-A](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETTsJzCGmohCpX9aV2mur_8Bj1CPksOJ43jAigVWo4Z7Rw?e=k4ZfbA), [Part-B](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYo9S0fDqDlBjYqV6nvBR1kBVHq_DOoyWg4Pj0uHPhtpvw?e=cvRDNk)
-## Please note in some Questions only keys are provided (detailed answer can be reffered using the slides and/or class notes).
+## Please note in some Questions only keys are provided (detailed answer can be referred using the slides and/or class notes).
 
 
 | Lec. No. | Date of Lecture        | Topics  | Slides   |
