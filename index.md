@@ -44,8 +44,10 @@
  |39       |  08-04-2025            | Genome Analysis | [PPT](https://safari.ethz.ch/architecture_seminar/fall2023/lib/exe/fetch.php?media=firtina-seminarincomparch-fall2023-lecture5-genome-analysis-afterlecture.pptx)(Till Slide Number 133), [Video](https://www.youtube.com/watch?v=-KtrGetkVhw)|
  |40       |  16-04-2025            | Memristor | [16-04-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYzAIsj7OIJKkWNcfQ9ZtBQBBGirNysLM-TEi-7cLxaIdA?e=E0k9Gp)|
 
+## End-Sem [Part-A](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETTsJzCGmohCpX9aV2mur_8Bj1CPksOJ43jAigVWo4Z7Rw?e=k4ZfbA), [Part-B](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYo9S0fDqDlBjYqV6nvBR1kBVHq_DOoyWg4Pj0uHPhtpvw?e=cvRDNk)
 
 Paper To Read for End Sem from Safari Group:
+
 RowPress: [PPT](https://safari.ethz.ch/architecture_seminar/fall2023/lib/exe/fetch.php?media=computer_architecture_pavel_shilkin_v3.pptx), [PDF](https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf), [Video](http://www.youtube.com/watch?v=5UqxyvEuqpg)
 
 NvWA: [PPT](https://safari.ethz.ch/architecture_seminar/fall2024/lib/exe/fetch.php?media=severin_bochem_presentation.pptx), [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10070978), [Video](http://www.youtube.com/watch?v=phzGmy5EFnI)
